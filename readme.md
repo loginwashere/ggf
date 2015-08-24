@@ -1,4 +1,4 @@
-# Good Gateway Football
+# Good Gateway Football [![Build Status](https://travis-ci.org/loginwashere/ggf.svg)](https://travis-ci.org/loginwashere/ggf)
 
 <a href="https://good-gateway-football.herokuapp.com" target="_blank">Demo</a>
 
